@@ -1,1 +1,1 @@
-các bạn iu dùng thì tự setup nhé, nếu các bạn muốn chạy thì tạo api bot ở telegram rồi setup trong code á, cài thư viện ở đầu scr ấy
+các bạn iu dùng thì tự setup nhé, nếu các bạn muốn chạy thì tạo api bot ở telegram rồi setup trong code á,xong cài thư viện ở đầu scr ấy
