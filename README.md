@@ -1,1 +1,4 @@
-các bạn iu dùng thì tự setup nhé, nếu các bạn muốn chạy thì tạo api bot ở telegram rồi setup trong code á,xong cài thư viện ở đầu scr ấy
+## setup api
+các fen tạo một api bên @BotFather ở telegram <br>
+rồi gắn vào dòng 15 ở file main.py <br>
+xong còn lại các bạn tự mò nha mình lười lắm á.🥰
