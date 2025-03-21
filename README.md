@@ -1,2 +1,1 @@
-cac ban iu ma lay dung thi tu setup nhe,
-bot nay chay o ben tele nha
+các bạn iu dùng thì tự setup nhé, nếu các bạn muốn chạy thì tạo api bot ở telegram rồi setup trong code á, cài thư viện ở đầu scr ấy
