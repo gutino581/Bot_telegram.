@@ -1,1 +1,1 @@
-cac ban iu ma lay sai thi tu setup nhe🥰
+cac ban iu ma lay dung thi tu setup nhe🥰
